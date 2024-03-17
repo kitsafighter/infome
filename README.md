@@ -1,3 +1,3 @@
 # Информация обо мне
 Меня зовут Иван, мне 24 года, учусь в Нетологии
-![Я][https://cs4.pikabu.ru/images/big_size_comm/2016-07_4/146885198313109586.jpg]
+![Я](https://cs4.pikabu.ru/images/big_size_comm/2016-07_4/146885198313109586.jpg)
